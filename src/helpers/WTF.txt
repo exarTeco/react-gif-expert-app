@@ -1,0 +1,1 @@
+Helpers, son funciones que hacen un cierto trabajo en especifico, pueden recibir argumentos lo procesan y hacen un return y no hace falta que redibujen el state.
